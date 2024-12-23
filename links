@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Understanding HTML Lists</h1>
+    <h2>1. Ordered List</h2>
+     <ol>
+        <li>likhitha</li>
+        <li>indhu</li>
+        <li>yamini</li>
+    </ol>
+    <h2>2. Unordered List</h2>
+     <ul>
+        <li>dhana</li>
+        <li>satya</li>
+        <li>sandhya</li>
+    </ul>
+    <h2>3. Nested Lists</h2>
+       <ol>
+        <li>friends<ul>
+                <li>likhitha</li>
+                <li>mohana</li>
+                <li>rekha</li>
+            </ul>
+        </li>
+        <li>friends
+            <ul>
+                <li>likki</li>
+                <li>indhu</li>
+                <li>yamini</li>
+            </ul>
+        </li>
+    </ol>
+    <h2>4. Ordered List inside an Unordered List</h2>
+        <ul>
+        <li>Sports
+            <ol>
+                <li>Soccer</li>
+                <li>Basketball</li>
+                <li>Baseball</li>
+            </ol>
+        </li>
+        <li>Music
+            <ol>
+                <li>pop</li>
+                <li>Jazz</li>
+                <li>Classical</li>
+            </ol>
+        </li>
+    </ul>
+
+    <h2>5. Definition List</h2>
+       <dl>
+        <dt>HTML</dt>
+        <dd>HTML stands for HyperText Markup Language.</dd>
+       
+        <dt>CSS</dt>
+        <dd>CSS stands for Cascading Style Sheets. </dd>
+       
+          </dl>
+
+</body>
+</html>
