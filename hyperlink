@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Hyperlinks in HTML</h1>
+    <p>Click the link below to visit Google:</p>
+    <a href="">Go to Google</a>
+    <p>Click the link below to visit Wikipedia (opens in a new tab):</p>
+    <a href="" target="_blank">Visit Wikipedia</a>
+</body>
+</html>
